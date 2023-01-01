@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+
+
+.container-fluid {
+    padding: 5% 10%;
+}
+
+#title {
+    background-color: #f3dfa3;
+}
+
+
+.titleName {
+    padding: 7% 15% 10%;
+    font-size: 8rem;
+    color: #fff;
+}
+
+
+#main {
+    margin-top: 20px;
+}
+
+
+
+#wheel {
+    text-align: center;
+}
+
+
+#canvas {
+    margin-bottom: 3rem;
+}
+
+#user-interface {
+    text-align: left;
+}
+
+
+
+/* map display */
+
+#map-display {
+    text-align: center;
+    height: 900px;
+    background-color: #f3dfa3;
+}
+
+
+#map {
+    width: 90%;
+    display: inline-block;
+    height: 900px;
+}
+
+
+/* Contact Section */
+#Contact {
+    background-color: #fff;
+    height: 300px;
+}
